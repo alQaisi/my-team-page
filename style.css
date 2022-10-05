@@ -38,7 +38,6 @@ article p{
     margin-bottom: 10px;
     display: block;
     font-size: 1rem;
-    background-color: white;
 }
 article p:first-of-type{
     font-weight:600;
