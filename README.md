@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://https://alqaisi.github.io/my-team-page/">
+    <a href="https://alqaisi.github.io/my-team-page/">
       Demo
     </a>
     <span> | </span>
